@@ -1,3 +1,2 @@
 # Streamlet
-Data Stream Processing system - Apache Storm prototype
-
+Data Stream Processing system
